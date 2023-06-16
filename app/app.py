@@ -33,7 +33,6 @@ try:
             st.tokens_response = st.slider("Tokens response length", 100, 500, 400)
             st.temperature = st.slider("Temperature", 0.0, 1.0, 0.1)
 
-
     question = st.text_input("*Ask thoughtful questions about the **2020 Summer Olympics***", default_question)
 
     if question != '':
