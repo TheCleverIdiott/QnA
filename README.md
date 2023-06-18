@@ -2,7 +2,6 @@
 
 <img src="./app/assets/RedisOpenAI.png" alt="Drawing" style="width: 100%;"/> </td>
 
-
 # Question & Answering using Redis & OpenAI
 
 **Redis** plays a crucial role in the LLM & GenAI wave with it's ability to store, retrieve, and search with vector spaces in a low-latency, high-availability setting. With its heritage in enterprise caching, Redis has both the developer community and enterprise-readiness required to deploy quality AI-enabled applications in this demanding marketplace.
