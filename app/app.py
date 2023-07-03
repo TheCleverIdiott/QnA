@@ -44,6 +44,7 @@ try:
                     tokens_response=st.tokens_response,
                     temperature=st.temperature
                 )
+                
             st.write("### Response")
             st.write(f"Q: {question}")
             st.write(f"A: {st.session_state['response']['choices'][0]['text']}")
